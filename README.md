@@ -15,3 +15,4 @@ Example of result with a video of the Nice tramway:
 
 ![alt text](https://github.com/JulienChoukroun/Face-Detection-Orientation-Recognition/blob/main/Images/videoTram6-2.png "Tram6-2")
 
+![alt text](https://github.com/JulienChoukroun/Face-Detection-Orientation-Recognition/blob/main/Images/videoTram12-1.png "Tram12-1")
