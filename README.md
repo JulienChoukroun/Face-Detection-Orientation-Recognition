@@ -12,3 +12,6 @@ This project was carried out with the Python language.
 Example of result with a video of the Nice tramway:
 
 ![alt text](https://github.com/JulienChoukroun/Face-Detection-Orientation-Recognition/blob/main/Images/videoTram6-1.png "Tram6-1")
+
+![alt text](https://github.com/JulienChoukroun/Face-Detection-Orientation-Recognition/blob/main/Images/videoTram6-2.png "Tram6-2")
+
