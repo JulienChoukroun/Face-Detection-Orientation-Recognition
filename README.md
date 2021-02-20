@@ -8,6 +8,7 @@ This project was carried out with the Python language.
 ### Purpose:
 * Detect face in real-time to be able to extract facial features which will allow to capture the orientation of the face.
 * Track faces along the video.
+* Use deep learning techniques.
 
 Example of result with a video of the Nice tramway:
 
