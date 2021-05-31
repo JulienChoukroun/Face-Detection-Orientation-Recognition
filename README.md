@@ -2,7 +2,7 @@ This project is carried out as part of the engineering cycle training (second ye
 ***
 # Face Detection - Orientation - Recognition
 
-## Présentation
+## Presentation
 This project was carried out with the Python language.
 
 ### Purpose:
