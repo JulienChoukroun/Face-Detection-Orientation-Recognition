@@ -10,7 +10,7 @@ This project was carried out with the Python language.
 * Track faces along the video.
 * Use deep learning techniques.
 
-Example of result with a video of the Nice tramway:
+Example of result with a video of the Nice tram line:
 
 ![alt text](https://github.com/JulienChoukroun/Face-Detection-Orientation-Recognition/blob/main/Images/videoTram6-1.png "Tram6-1")
 
